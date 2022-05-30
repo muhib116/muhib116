@@ -7,6 +7,8 @@ My goal is to develop into one of the top ten programmers within the next few ye
 
 Skills: Laravel, Vue JS, React JS, WordPress, JavaScript, PHP, PHP OOP, SQL, HTML, CSS, SCSS, Photoshop, Illustrator, SEO
 
+Download My CV: https://drive.google.com/file/d/1FcKYgTPKCgUpA7wWkeWXi66Ttquc9qJ9/view
+
 - 🔭 I’m currently working on Ayyan Tech Limited 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: dev.muhibbullah@gmail.com 
