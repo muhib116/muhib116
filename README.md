@@ -23,8 +23,6 @@ Download My CV: https://drive.google.com/file/d/1FcKYgTPKCgUpA7wWkeWXi66Ttquc9qJ
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhib116&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhib116)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muhib116)  
 
 ![Profile views](https://gpvc.arturio.dev/muhib116)  
