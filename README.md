@@ -5,11 +5,11 @@
 I'm a Full-stack developer with a passion for learning. I have developed my skillset in web development over the past six years.
 My goal is to develop into one of the top ten programmers within the next few years.
 
-Skills: Laravel, Vue JS, React JS, WordPress, JavaScript, PHP, PHP OOP, SQL, HTML, CSS, SCSS, Photoshop, Illustrator, SEO
+Skills: Laravel, Vue JS, React JS, NaxtJs, WordPress, JavaScript, PHP, PHP OOP, SQL, HTML, CSS, SCSS, Tailwind CSS, Photoshop, Illustrator, SEO
 
 Download My CV: https://drive.google.com/file/d/1FcKYgTPKCgUpA7wWkeWXi66Ttquc9qJ9/view
 
-- 🔭 I’m currently working on Ayyan Tech Limited 
+- 🔭 I’m currently working on Instrat360 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: dev.muhibbullah@gmail.com 
 
