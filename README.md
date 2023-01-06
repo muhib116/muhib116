@@ -9,7 +9,7 @@ Skills: Laravel, Vue JS, React JS, NaxtJs, WordPress, JavaScript, PHP, PHP OOP, 
 
 Download My CV: https://drive.google.com/file/d/1FcKYgTPKCgUpA7wWkeWXi66Ttquc9qJ9/view
 
-- 🔭 I’m currently working on Instrat360 
+- 🔭 I’m currently working on Instrat360, danmark 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: dev.muhibbullah@gmail.com 
 
