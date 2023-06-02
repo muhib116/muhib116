@@ -1,11 +1,10 @@
 ### Hi there 👋, Me Muhibbullah Ansary
-#### A passionate full-stack developer from Bangladesh
-![A passionate full-stack developer from Bangladesh](https://devdeeper.com/wp-content/uploads/2023/06/GitHubBanner.png)
+#### A passionate frontend developer from Bangladesh
+![A passionate frontend developer from Bangladesh](https://devdeeper.com/wp-content/uploads/2023/06/GitHubBanner.png)
 
-I'm a Full-stack developer with a passion for learning. I have developed my skillset in web development over the past six years.
-My goal is to develop into one of the top ten programmers within the next few years.
+As a highly skilled and experienced Vue.js developer, I am passionate about developing engaging and dynamic user interfaces that meet the needs of modern web applications. With 7 years of experience in the field, I have a deep understanding of Vue.js and its related technologies and am committed to staying up-to-date with the latest trends and best practices in web development.
 
-Skills: Laravel, Vue JS, React JS, NaxtJs, WordPress, JavaScript, PHP, PHP OOP, SQL, HTML, CSS, SCSS, Tailwind CSS, Photoshop, Illustrator, SEO
+Skills: Vue JS, React JS, React Native, NaxtJs, JavaScript, Laravel, SCSS, Tailwind CSS, WordPress
 
 Download My CV: https://drive.google.com/file/d/1ckM9O42t_BLMYAfvXc5TkkK207eivrlc/view?usp=sharing
 
