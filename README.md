@@ -3,7 +3,148 @@
 > **Vue.js Developer | Tech Enthusiast | Building Modern Web Solutions from Bangladesh** 🇧🇩
 >
 > ---
+# 👋 Hey there! I'm Muhibbullah Ansary
+
+> **Vue.js Developer | Tech Enthusiast | Building Modern Web Solutions from Bangladesh** 🇧🇩
 >
+> ---
+>
+> ## 🚀 About Me
+>
+> I'm a passionate **frontend developer** with **7+ years** of hands-on experience crafting beautiful, performant, and user-centric web applications. I specialize in **Vue.js** and modern JavaScript, and I love turning complex problems into simple, elegant solutions.
+>
+> ### What drives me?
+> - 💡 Creating seamless user experiences
+> - - 🛠️ Building scalable web architectures
+>   - - 🌍 Contributing to open-source communities
+>     - - 🤖 Exploring AI/LLM technologies
+>       - - 📚 Continuous learning and growth
+>         -
+>         - ---
+>         -
+>         - ## 💼 What I Do
+>         -
+>         - ### Frontend Development
+>         - Crafting interactive, responsive, and performance-optimized web applications using **Vue.js**, **React**, and modern JavaScript.
+>         -
+>         - ### Full-Stack Solutions
+>         - Building end-to-end web platforms, from database design to deployment, with focus on user experience and code quality.
+>         -
+>         - ### Technical Mentoring
+>         - Helping developers grow their skills and knowledge in web development, best practices, and modern tooling.
+>         -
+>         - ---
+>         -
+>         - ## 🛠️ My Tech Arsenal
+>         -
+>         - ```
+>           Languages       → JavaScript, HTML, CSS, SQL
+>           Frameworks      → Vue.js, React.js, NuxtJs, React Native
+>           Styling         → Tailwind CSS, SCSS, CSS Modules
+>           Build Tools     → Vite, Webpack, npm, Docker
+>           Platforms       → WordPress, WooCommerce, Node.js
+>           DevTools        → Git, GitHub, VS Code, Figma
+>           Cloud & Infra   → Self-hosted setups, Ollama, Open WebUI
+>           Interests       → AI/LLMs, Web3, System Design
+>           ```
+>
+>           ---
+>
+>           ## 🎯 What I'm Currently Working On
+>
+>           ### 🏢 **Instrat360** - *Denmark-based Remote Role*
+>           Building cutting-edge web solutions for international clients. Focused on performance optimization and modern architecture.
+>
+>           ### 🤖 **AI/LLM Exploration**
+>           Diving deep into Large Language Models, prompt engineering, and integrating AI capabilities into web applications.
+>
+>           ### 💼 **E-commerce Solutions**
+>           Working on product-focused platforms and digital businesses:
+>           - **WooEasyLife** - WordPress-powered e-commerce platform
+>           - - **Love Nest** - Beauty & personal care e-commerce brand
+>             - - **Atlas Platform** - Local-first AI agent platform
+>               -
+>               - ### 📱 **Open Source & Learning**
+>               - Contributing to the developer community and continuously improving my skill set.
+>               -
+>               - ---
+>               -
+>               - ## 🎓 Currently Learning
+>               -
+>               - - 🧠 Advanced AI/LLM integration patterns
+>                 - - 🏗️ System design and microservices architecture
+>                   - - ☁️ Cloud infrastructure and DevOps
+>                     - - 🔐 Web security best practices
+>                       -
+>                       - ---
+>                       -
+>                       - ## 📊 GitHub Stats & Activity
+>                       -
+>                       - <div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhib116&show_icons=true&theme=dark&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhib116&layout=compact&theme=dark&hide_border=true)
+  
+  </div>
+  
+  ---
+  
+  ## 🌟 Featured Projects
+  
+  | Project | Description | Tech Stack |
+  |---------|-------------|-----------|
+  | **WooEasyLife** | E-commerce platform with advanced features | Vue.js, WordPress, WooCommerce |
+  | **Atlas Platform** | Local-first AI agent platform | Node.js, Vue.js, Ollama |
+  | **Conveyancer Hub** | Real estate platform frontend | Vue.js, TypeScript |
+  
+  ---
+  
+  ## 💬 Let's Connect & Collaborate!
+  
+  ### I'm interested in:
+  - 🤝 Collaborating on **open-source projects**
+  - - 💡 Building **innovative web solutions**
+    - - 📖 **Mentoring** aspiring developers
+      - - 🌐 Contributing to the **developer community**
+        - - 🎯 Exploring **emerging technologies**
+          -
+          - ### Feel free to reach out!
+          - - 📧 **Email:** [dev.muhibbullah@gmail.com](mailto:dev.muhibbullah@gmail.com)
+            - - 🐦 **Twitter:** [@muhib116](https://twitter.com/muhib116)
+              - - 💻 **GitHub:** [github.com/muhib116](https://github.com/muhib116)
+                - - 📍 **Based in:** Bangladesh (UTC+6)
+                  -
+                  - ---
+                  -
+                  - ## 🎯 Quick Facts
+                  -
+                  - - ✨ 7+ years of web development experience
+                    - - 🏆 100+ projects delivered
+                      - - 🚀 Passionate about clean code and best practices
+                        - - 📚 Always learning and improving
+                          - - 🌍 Remote-friendly and timezone-flexible
+                            - - 🎨 Design-conscious developer
+                              -
+                              - ---
+                              -
+                              - ## 💭 My Philosophy
+                              -
+                              - > "Great code is not just about making things work—it's about making them work *beautifully* and *sustainably*."
+                                > >
+                                > >> I believe in writing code that's not just functional, but also maintainable, scalable, and a joy to work with.
+                                > >>
+                                > >> ---
+                                > >>
+                                > >> <div align="center">
+
+                                > ### 📖 Let's Build Something Amazing Together!
+                                >
+                                > [⭐ Star my repos](https://github.com/muhib116) • [📧 Email me](mailto:dev.muhibbullah@gmail.com) • [🐦 Follow on Twitter](https://twitter.com/muhib116)
+                                >
+                                > **Made with ❤️ from Bangladesh** 🇧🇩
+                                >
+                                > </div>>
 > ## 🚀 About Me
 >
 > I'm a passionate **frontend developer** with **7+ years** of hands-on experience crafting beautiful, performant, and user-centric web applications. I specialize in **Vue.js** and modern JavaScript, and I love turning complex problems into simple, elegant solutions.
